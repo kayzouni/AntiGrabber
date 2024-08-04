@@ -1,4 +1,4 @@
-# 🚀・ **Anti Grabber
+# 🚀・ Anti Grabber
 
 ## **⭐ Star**
 
