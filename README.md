@@ -35,7 +35,8 @@
 1 - Télécharger le dossier
 2 - Extraire le dossier.
 3 - Lancez "install.bat" et "start.bat"
-``
+
+```
 </p>
 
 ## **:speech_balloon:・Support**
